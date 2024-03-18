@@ -22,6 +22,7 @@ environment:
 dependencies:
   dio: ^5.4.1
   image: ^4.1.7
+  meta: ^1.12.0
 
 dev_dependencies:
   json_annotation: ^4.8.1

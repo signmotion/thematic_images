@@ -1,5 +1,3 @@
-// ignore_for_file: avoid_print
-
 import 'dart:io';
 
 import 'package:image/image.dart';
@@ -7,7 +5,7 @@ import 'package:thematic_images/thematic_images.dart';
 
 void main() async {
   // get an image generator
-  final images = Images(keywords: ['castle']);
+  final images = NetworkImages(keywords: ['castle']);
 
   // generate an image and save as PNG file
   final image = await images.next;

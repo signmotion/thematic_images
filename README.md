@@ -48,4 +48,4 @@ General questions are best asked on
 - Styles of images.
 - Random sizes options.
 - Just a one-filled-color image.
-- Local images?
+- Local images with keywords.
