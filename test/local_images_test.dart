@@ -17,5 +17,5 @@ void main() {
         checkFileImage(file, width: w, height: h);
       }
     });
-  }, tags: ['current']);
+  });
 }
