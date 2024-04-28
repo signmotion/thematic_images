@@ -8,4 +8,6 @@
 
 /.vscode/settings.json
 
-/test/_output
+/build
+
+/_output
