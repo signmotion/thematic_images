@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:image/image.dart';
 import 'package:test/test.dart';
 
-const output = 'test/_output';
+const output = './_output';
 
 void clearOutputFolder(String prefix) {
   final directory = Directory('$output/$prefix');
