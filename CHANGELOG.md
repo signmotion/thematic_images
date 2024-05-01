@@ -3,6 +3,14 @@
 All notable changes to the project `ThematicImages` will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.2
+
+- Changed the style for shields in `README`.
+- Added a link to [Awesome Flutter](https://github.com/Solido/awesome-flutter) in `example/README`.
+- Stabilized CI for tests.
+- Excluded some folders from the analysis.
+- Updated cover.
+
 ## 0.1.1
 
 - Added CI for GitHub.
