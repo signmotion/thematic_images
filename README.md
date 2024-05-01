@@ -1,26 +1,26 @@
 # Thematic Image Generator
 
+![SDK version](https://badgen.net/pub/sdk-version/thematic_images?style=for-the-badge)
+![Supported platforms](https://badgen.net/pub/flutter-platform/thematic_images?style=for-the-badge)
+![Supported SDKs](https://badgen.net/pub/dart-platform/thematic_images?style=for-the-badge)
+
 ![Cover - Thematic Image Generator](https://raw.githubusercontent.com/signmotion/thematic_images/master/images/cover.webp)
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Pub Package](https://img.shields.io/pub/v/thematic_images.svg?logo=dart&logoColor=00b9fc&color=blue)](https://pub.dartlang.org/packages/thematic_images)
-[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/thematic_images?logo=github&logoColor=white)](https://github.com/signmotion/thematic_images)
-[![Publisher](https://img.shields.io/pub/publisher/thematic_images)](https://pub.dev/publishers/syrokomskyi.com)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Pub Package](https://img.shields.io/pub/v/thematic_images.svg?logo=dart&logoColor=00b9fc&color=blue&style=for-the-badge)](https://pub.dartlang.org/packages/thematic_images)
+[![Code Size](https://img.shields.io/github/languages/code-size/signmotion/thematic_images?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/thematic_images)
+[![Publisher](https://img.shields.io/pub/publisher/thematic_images?style=for-the-badge)](https://pub.dev/publishers/syrokomskyi.com)
 
-![SDK version](https://badgen.net/pub/sdk-version/thematic_images)
-![Supported platforms](https://badgen.net/pub/flutter-platform/thematic_images)
-![Supported SDKs](https://badgen.net/pub/dart-platform/thematic_images)
-
-[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/thematic_images/dart-ci.yml?logo=github-actions&logoColor=white)](https://github.com/signmotion/thematic_images/actions)
-[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/thematic_images?logo=github&logoColor=white)](https://github.com/signmotion/thematic_images/pulls)
-[![Issues](https://img.shields.io/github/issues/signmotion/thematic_images?logo=github&logoColor=white)](https://github.com/signmotion/thematic_images/issues)
-[![Pub Score](https://img.shields.io/pub/points/thematic_images?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/thematic_images/score)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/signmotion/thematic_images/dart-ci.yml?logo=github-actions&logoColor=white&style=for-the-badge)](https://github.com/signmotion/thematic_images/actions)
+[![Pull Requests](https://img.shields.io/github/issues-pr/signmotion/thematic_images?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/thematic_images/pulls)
+[![Issues](https://img.shields.io/github/issues/signmotion/thematic_images?logo=github&logoColor=white&style=for-the-badge)](https://github.com/signmotion/thematic_images/issues)
+[![Pub Score](https://img.shields.io/pub/points/thematic_images?logo=dart&logoColor=00b9fc&style=for-the-badge)](https://pub.dev/packages/thematic_images/score)
 
 Generates thematic images with defined keywords and sizes.
 Easy-to-use and [well-tested](https://github.com/signmotion/thematic_images/tree/master/test) Dart package.
 Feel free to use it in your awesome project.
 
-[![CodeFactor](https://codefactor.io/repository/github/signmotion/thematic_images/badge)](https://codefactor.io/repository/github/signmotion/thematic_images)
+[![CodeFactor](https://codefactor.io/repository/github/signmotion/thematic_images/badge?style=for-the-badge)](https://codefactor.io/repository/github/signmotion/thematic_images)
 
 Share some ❤️ and star repo to support the project.
 
