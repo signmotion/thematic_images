@@ -13,5 +13,5 @@ void main() {
         save('network', '$i.png', await images.next);
       }
     });
-  });
+  }, tags: ['windows']);
 }
